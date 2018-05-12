@@ -1,9 +1,5 @@
 from string import punctuation
 
-f1 = open("f", "r")
-f2 = open("f2", "r")
-f1_txt = f1.read()
-f2_txt = f2.read()
 
 
 def main(name1, name2, slice):
